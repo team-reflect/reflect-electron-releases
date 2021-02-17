@@ -1,1 +1,1 @@
-# reflect-electron-releases
+# reflect-electron-updates
